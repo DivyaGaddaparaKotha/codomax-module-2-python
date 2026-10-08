@@ -1,0 +1,37 @@
+[
+    {
+        "ID": "3",
+        "Name": "Rukshana",
+        "Age": "20",
+        "Course": "CSE",
+        "CGPA": "8.9"
+    },
+    {
+        "ID": "2",
+        "Name": "Harshi",
+        "Age": "21",
+        "Course": "CSE",
+        "CGPA": "8.0"
+    },
+    {
+        "ID": "1",
+        "Name": "Divya",
+        "Age": "20",
+        "Course": "CSE",
+        "CGPA": "9.0"
+    },
+    {
+        "ID": "4",
+        "Name": "Navya",
+        "Age": "22",
+        "Course": "CSE",
+        "CGPA": "9.3"
+    },
+    {
+        "ID": "5",
+        "Name": "Bhavya",
+        "Age": "23",
+        "Course": "CSE",
+        "CGPA": "8.8"
+    }
+]
